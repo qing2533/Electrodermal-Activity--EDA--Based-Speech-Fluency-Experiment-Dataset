@@ -11,7 +11,7 @@ This dataset is for research and learning purposes only and is strictly prohibit
 
 First of all, we sincerely thank the 6 subjects who participated in this experiment: Hu Wentao, Wei Ziyue, Zhou Kaiqi, Zou Yawen, Lü Zhouhao, Zhuo Yiyuan. We appreciate their active cooperation, full support and selfless dedication during the experiment. The sincere participation of the subjects is the foundation for the smooth construction of this dataset.
 
-**At the same time, we would like to thank the project leader of this experiment: Zhang Hanwen; operators: Fu Qiyun, Li Yiling, Zhou Fangkai (in no particular order). All members of this project are from Delaware State University.** We appreciate their rigorous operation, hard work and professional assistance in the experiment preparation, data collection and data sorting processes, which ensured the standardization of the experimental process and the accuracy of the dataset.
+**At the same time, we would like to thank the project leader of this experiment: Zhang Hanwen; operators: Fu Qiyun, Li Yiling, Zhou Fangkai (in no particular order). All members of this project are from Delaware State University.. Contact Email: 18583074836@163.com** We appreciate their rigorous operation, hard work and professional assistance in the experiment preparation, data collection and data sorting processes, which ensured the standardization of the experimental process and the accuracy of the dataset.
 
 ## Supplementary Notes
 
@@ -45,7 +45,7 @@ The tool used for data processing and analysis of this dataset is: https://githu
 
 首先，衷心感谢参与本次实验的6位受试者：胡文涛、魏紫悦、周鍇奇、邹雅雯、吕周好、禚镒源，感谢其在实验过程中的积极配合、全力支持与无私奉献，受试者的真诚参与是本数据集得以顺利构建的基础。
 
-**同时，感谢本次实验的项目负责人：张瀚文；操作员：傅琪芸、厉依灵、周方凯（排名不分前后）。本项目所有组成员均来自特拉华州立大学（Delaware State University）**，感谢其在实验筹备、数据采集、数据整理过程中的严谨操作、辛勤付出与专业协助，确保了实验流程的规范性和数据集的准确性。
+**同时，感谢本次实验的项目负责人：张瀚文；操作员：傅琪芸、厉依灵、周方凯（排名不分前后）。本项目所有组成员均来自特拉华州立大学（Delaware State University）,联系邮箱：18583074836@163.com**，感谢其在实验筹备、数据采集、数据整理过程中的严谨操作、辛勤付出与专业协助，确保了实验流程的规范性和数据集的准确性。
 
 ## 补充说明
 
