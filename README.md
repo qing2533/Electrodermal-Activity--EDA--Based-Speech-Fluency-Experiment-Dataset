@@ -1,5 +1,4 @@
 # Electrodermal Activity (EDA)-Based Speech Fluency Experiment Dataset
-
 ## Dataset Description
 
 The full name of this dataset is "Electrodermal Activity (EDA)-Based Speech Fluency Experiment Dataset". It contains data related to the speech fluency experiment based on Electrodermal Activity (EDA), including the electrodermal signal data collected during the experiment, speech fluency rating data, and relevant experimental metadata. It can be used in research and learning scenarios such as the correlation analysis between speech fluency and physiological signals, physiological signal feature extraction, and speech evaluation model training.
@@ -12,7 +11,7 @@ This dataset is for research and learning purposes only and is strictly prohibit
 
 First of all, we sincerely thank the 6 subjects who participated in this experiment: Hu Wentao, Wei Ziyue, Zhou Kaiqi, Zou Yawen, Lü Zhouhao, Zhuo Yiyuan. We appreciate their active cooperation, full support and selfless dedication during the experiment. The sincere participation of the subjects is the foundation for the smooth construction of this dataset.
 
-At the same time, we would like to thank the project leader of this experiment: Zhang Hanwen; operators: Fu Qiyun, Li Yiling, Zhou Fangkai (in no particular order). We appreciate their rigorous operation, hard work and professional assistance in the experiment preparation, data collection and data sorting processes, which ensured the standardization of the experimental process and the accuracy of the dataset.
+**At the same time, we would like to thank the project leader of this experiment: Zhang Hanwen; operators: Fu Qiyun, Li Yiling, Zhou Fangkai (in no particular order). All members of this project are from Delaware State University.** We appreciate their rigorous operation, hard work and professional assistance in the experiment preparation, data collection and data sorting processes, which ensured the standardization of the experimental process and the accuracy of the dataset.
 
 ## Supplementary Notes
 
@@ -33,6 +32,7 @@ The tool used for data processing and analysis of this dataset is: https://githu
 ---
 
 # 基于皮肤电反应（EDA）的口语流利度实验数据集
+
 ## 数据集说明
 
 本数据集全称为“基于皮肤电反应（EDA）的口语流利度实验数据集”，包含实验过程中采集的皮肤电信号数据、口语流利度评分数据及相关实验 metadata，可用于口语流利度与生理信号关联分析、生理信号特征提取、口语评估模型训练等相关科研与学习场景。
@@ -45,7 +45,7 @@ The tool used for data processing and analysis of this dataset is: https://githu
 
 首先，衷心感谢参与本次实验的6位受试者：胡文涛、魏紫悦、周鍇奇、邹雅雯、吕周好、禚镒源，感谢其在实验过程中的积极配合、全力支持与无私奉献，受试者的真诚参与是本数据集得以顺利构建的基础。
 
-同时，感谢本次实验的项目负责人：张瀚文；操作员：傅琪芸、厉依灵、周方凯（排名不分前后），感谢其在实验筹备、数据采集、数据整理过程中的严谨操作、辛勤付出与专业协助，确保了实验流程的规范性和数据集的准确性。
+**同时，感谢本次实验的项目负责人：张瀚文；操作员：傅琪芸、厉依灵、周方凯（排名不分前后）。本项目所有组成员均来自特拉华州立大学（Delaware State University）**，感谢其在实验筹备、数据采集、数据整理过程中的严谨操作、辛勤付出与专业协助，确保了实验流程的规范性和数据集的准确性。
 
 ## 补充说明
 
@@ -62,4 +62,3 @@ The tool used for data processing and analysis of this dataset is: https://githu
 (4) 口语表达数据采集：受试者在进行口语表达前给予一段准备时间，供受试者熟悉手上的口语表达材料，在准备时间结束后，受试者进行口语表达，并实时进行录制与皮肤电数据采集。准备与口语表达期间，实验操作员离开实验场地，以确保操作员的存在不会对受试者的表达造成影响。
 
 (5) 结束阶段：所有任务完成后，取下传感器，对受试者进行访谈，同时填写即时情绪自评量表，用于验证情绪诱发效果，了解其实验过程中的感受，补充记录可能影响结果的异常情况。
-
