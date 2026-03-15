@@ -11,7 +11,7 @@ This dataset is for research and learning purposes only and is strictly prohibit
 
 First of all, we sincerely thank the 6 subjects who participated in this experiment: Hu Wentao, Wei Ziyue, Zhou Kaiqi, Zou Yawen, Lü Zhouhao, Zhuo Yiyuan. We appreciate their active cooperation, full support and selfless dedication during the experiment. The sincere participation of the subjects is the foundation for the smooth construction of this dataset.
 
-**At the same time, we would like to thank the project leader of this experiment: Zhang Hanwen; operators: Fu Qiyun, Li Yiling, Zhou Fangkai (in no particular order). All members of this project are from Delaware State University.. Contact Email: 18583074836@163.com** We appreciate their rigorous operation, hard work and professional assistance in the experiment preparation, data collection and data sorting processes, which ensured the standardization of the experimental process and the accuracy of the dataset.
+**At the same time, we would like to thank the project leader of this experiment: Zhang Hanwen; operators: Fu Qiyun, Li Yiling, Zhou Fangkai (in no particular order). All members of this project are from Delaware State University. Contact Email: 18583074836@163.com** We appreciate their rigorous operation, hard work and professional assistance in the experiment preparation, data collection and data sorting processes, which ensured the standardization of the experimental process and the accuracy of the dataset.
 
 ## Supplementary Notes
 
