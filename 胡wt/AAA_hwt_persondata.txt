@@ -1,0 +1,235 @@
+个人资料（PERSONAL DATA）
+姓名：胡文韬   性别：男    年龄：20   体重：60kg   身高：170cm    惯用手：左
+有无长期疾病：无
+是否长期食用药物：否
+是否长期饮酒：否
+是否长期吸烟：否
+
+轮次：第 1 轮数据采集    日期：2025.10.17
+操作员签名：周方凯
+
+受试先决条件（PRE-REQUISITES）
+1.今日睡眠时间：8h
+2.目前是否感到疲惫：否
+3.是否正常吃饭：是
+4.今日是否有运动：否
+5.今日及昨晚是否饮酒：否
+6.今日是否生病：否
+7.今日是否吸烟：否
+8.吸烟是在一小时内吗：否
+9.今日是否食用甜食：否
+10.食用甜食是在一小时内吗：否
+11.今日是否饮用咖啡：否
+12.喝咖啡是在一小时内吗：否
+13.本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）
+左手习惯摸下巴
+
+
+轮次：第 2 轮数据采集    日期：2025.10.24
+操作员签名：张瀚文 
+
+受试先决条件（PRE-REQUISITES）
+1.今日睡眠时间：5h
+2.目前是否感到疲惫：是
+3.是否正常吃饭：是
+4.今日是否有运动：否
+5.今日及昨晚是否饮酒：否
+6.今日是否生病：是
+7.今日是否吸烟：否
+8.吸烟是在一小时内吗：否
+9.今日是否食用甜食：否
+10.食用甜食是在一小时内吗：否
+11.今日是否饮用咖啡：否
+12.喝咖啡是在一小时内吗：否
+13.本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）
+受试者表达意愿较上次有所提升 表达过程中与操作员有眼神多次接触 未出现畏难情况 表述过程中有多次思考
+
+
+轮次：第 3 轮数据采集    日期：2025.10.28
+操作员签名：张瀚文 
+
+受试先决条件（PRE-REQUISITES）
+1.	今日睡眠时间：7 h
+2.	目前是否感到疲惫：否
+3.	是否正常吃饭：是
+4.	今日是否有运动：是
+5.	今日及昨晚是否饮酒：否
+6.	今日是否生病：否
+7.	今日是否吸烟：否
+8.	吸烟是在一小时内吗：否
+9.	今日是否食用甜食：是
+10.	食用甜食是在一小时内吗：否
+11.	今日是否饮用咖啡：否
+12.	喝咖啡是在一小时内吗：否
+13.	本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）
+无
+
+
+轮次：第 4 轮数据采集    日期：2025.11.14
+操作员签名：张瀚文
+
+受试先决条件（PRE-REQUISITES）
+1.今日睡眠时间：8h
+2.目前是否感到疲惫：否
+3.是否正常吃饭：是
+4.今日是否有运动：是
+5.今日及昨晚是否饮酒：否
+6.今日是否生病：否
+7.今日是否吸烟：否
+8.吸烟是在一小时内吗：否
+9.今日是否食用甜食：是
+10.食用甜食是在一小时内吗：否
+11.今日是否饮用咖啡：否
+12.喝咖啡是在一小时内吗：否
+13.本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）
+无
+
+
+轮次：第 5 轮数据采集    日期：2025.11.28
+操作员签名：张瀚文
+
+受试先决条件（PRE-REQUISITES）
+1. 今日睡眠时间：8h
+2. 目前是否感到疲惫：否
+3. 是否正常吃饭：是
+4. 今日是否有运动：否
+5. 今日及昨晚是否饮酒：否
+6. 今日是否生病：否
+7. 今日是否吸烟：否
+8. 吸烟是在一小时内吗：否
+9. 今日是否食用甜食：是
+10. 食用甜食是在一小时内吗：是
+11. 今日是否饮用咖啡：否
+12. 喝咖啡是在一小时内吗：否
+13. 本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）受试在实验结束后有事情，较为赶时间。没有低头，手长时间与嘴接触，脸正视前方
+------------------------------------------------------------------------------------------------
+PERSONAL DATA
+Name: Hu Wentao Gender: Male Age: 20 Weight: 60 kg Height: 170 cm Dominant Hand: Left
+Chronic Diseases: None
+Long-term Medication Use: No
+Long-term Alcohol Consumption: No
+Long-term Smoking: No
+
+Round 1: Data Collection
+Date: October 17, 2025
+Operator's Signature: Zhou Fangkai
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 8 hours
+2.	Current fatigue level: No
+3.	Regular meal intake: Yes
+4.	Physical exercise today: No
+5.	Alcohol consumption today or last night: No
+6.	Illness today: No
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: No
+10.	Consumption of sugary food within one hour prior: No
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+Left hand habitually touches the chin
+
+
+Round 2: Data Collection
+Date: October 24, 2025
+Operator's Signature: Zhang Hanwen
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 5 hours
+2.	Current fatigue level: Yes
+3.	Regular meal intake: Yes
+4.	Physical exercise today: No
+5.	Alcohol consumption today or last night: No
+6.	Illness today: Yes
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: No
+10.	Consumption of sugary food within one hour prior: No
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+The subject's willingness to communicate was higher than that in the previous round. He had multiple eye contacts with the operator during communication, showed no signs of reluctance, and engaged in repeated thinking while expressing himself.
+
+
+Round 3: Data Collection
+Date: October 28, 2025
+Operator's Signature: Zhang Hanwen
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 7 hours
+2.	Current fatigue level: No
+3.	Regular meal intake: Yes
+4.	Physical exercise today: Yes
+5.	Alcohol consumption today or last night: No
+6.	Illness today: No
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: Yes
+10.	Consumption of sugary food within one hour prior: No
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+None
+
+
+Round 4: Data Collection
+Date: November 14, 2025
+Operator's Signature: Zhang Hanwen
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 8 hours
+2.	Current fatigue level: No
+3.	Regular meal intake: Yes
+4.	Physical exercise today: Yes
+5.	Alcohol consumption today or last night: No
+6.	Illness today: No
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: Yes
+10.	Consumption of sugary food within one hour prior: No
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+None
+
+
+Round 5: Data Collection
+Date: November 28, 2025
+Operator's Signature: Zhang Hanwen
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 8 hours
+2.	Current fatigue level: No
+3.	Regular meal intake: Yes
+4.	Physical exercise today: No
+5.	Alcohol consumption today or last night: No
+6.	Illness today: No
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: Yes
+10.	Consumption of sugary food within one hour prior: Yes
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+The subject had matters to attend to after the experiment and was in a hurry. He did not lower his head, kept his hands in contact with his mouth for a long time, and faced straight ahead.

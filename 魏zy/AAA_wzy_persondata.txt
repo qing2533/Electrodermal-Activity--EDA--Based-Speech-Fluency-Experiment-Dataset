@@ -1,0 +1,236 @@
+个人资料（PERSONAL DATA）
+姓名：魏紫悦   性别：女    年龄：21   体重：47kg   身高：165cm    惯用手：右
+有无长期疾病：无
+是否长期食用药物：否
+是否长期饮酒：否
+是否长期吸烟：否
+
+轮次：第 1 轮数据采集    日期：2025.10.14
+操作员签名：傅琪芸
+
+受试先决条件（PRE-REQUISITES）
+1.今日睡眠时间：7h
+2.目前是否感到疲惫：否
+3.是否正常吃饭：是
+4.今日是否有运动：否
+5.今日及昨晚是否饮酒：否
+6.今日是否生病：否
+7.今日是否吸烟：否
+8.吸烟是在一小时内吗：否
+9.今日是否食用甜食：否
+10.食用甜食是在一小时内吗：否
+11.今日是否饮用咖啡：否
+12.喝咖啡是在一小时内吗：否
+13.本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）
+状态较为愉悦,由因英语水平较差流利度较低、会出现不间断的停顿情况,思考时间长,表述会存在问题
+
+
+轮次：第 2 轮数据采集    日期：2025.10.21
+操作员签名：厉依灵
+
+受试先决条件（PRE-REQUISITES）
+1.今日睡眠时间：8h
+2.目前是否感到疲惫：是
+3.是否正常吃饭：是
+4.今日是否有运动：否
+5.今日及昨晚是否饮酒：否
+6.今日是否生病：否
+7.今日是否吸烟：否
+8.吸烟是在一小时内吗：否
+9.今日是否食用甜食：是
+10.食用甜食是在一小时内吗：否
+11.今日是否饮用咖啡：否
+12.喝咖啡是在一小时内吗：否
+13.本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）
+测试时眼睛会往下看，眨眼频繁，因英语基础薄弱，会出现较长时间的停顿思考，表述较为卡顿 
+
+
+轮次：第 3 轮数据采集    日期：2025.10.28
+操作员签名：傅琪芸
+
+受试先决条件（PRE-REQUISITES）
+1.	今日睡眠时间：7 h
+2.	目前是否感到疲惫：否
+3.	是否正常吃饭：是
+4.	今日是否有运动：否
+5.	今日及昨晚是否饮酒：否
+6.	今日是否生病：否
+7.	今日是否吸烟：否
+8.	吸烟是在一小时内吗：否
+9.	今日是否食用甜食：否
+10.	食用甜食是在一小时内吗：否
+11.	今日是否饮用咖啡：否
+12.	喝咖啡是在一小时内吗：否
+13.	本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）
+出现手搓鼻子的行为，眼睛眨眼频率高，卡顿次数比较多，有长时间右手托右脸颊的情况
+
+
+轮次：第 4 轮数据采集    日期：2025.11.11
+操作员签名：厉依灵 
+
+受试先决条件（PRE-REQUISITES）
+1.今日睡眠时间：8h
+2.目前是否感到疲惫：否
+3.是否正常吃饭：是
+4.今日是否有运动：否
+5.今日及昨晚是否饮酒：否
+6.今日是否生病：否
+7.今日是否吸烟：否
+8.吸烟是在一小时内吗：否
+9.今日是否食用甜食：否
+10.食用甜食是在一小时内吗：否
+11.今日是否饮用咖啡：否
+12.喝咖啡是在一小时内吗：否
+13.本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）
+思考状态明显，表述过程较为卡顿，有思考动作，如挠头，眼珠转动。在表述时，为有明显身体僵硬等状况发生。 
+
+
+轮次：第 5 轮数据采集    日期：2025.11.18
+操作员签名：傅琪芸 
+
+受试先决条件（PRE-REQUISITES）
+1. 今日睡眠时间：6h
+2. 目前是否感到疲惫：否
+3. 是否正常吃饭：是
+4. 今日是否有运动：否
+5. 今日及昨晚是否饮酒：否
+6. 今日是否生病：否
+7. 今日是否吸烟：否
+8. 吸烟是在一小时内吗：否
+9. 今日是否食用甜食：否
+10. 食用甜食是在一小时内吗：否
+11. 今日是否饮用咖啡：否
+12. 喝咖啡是在一小时内吗：否
+13. 本次实验佩戴采集器是否不适：否
+
+额外记录（EXTRA NOTE）
+被试者出现挠头，视线一直盯着桌面的情况，心情愉悦，嘴角上扬，语速慢
+------------------------------------------------------------------------------------------------
+PERSONAL DATA
+Name: Wei Ziyue Gender: Female Age: 21 Weight: 47 kg Height: 165 cm Dominant Hand: Right
+Chronic Diseases: None
+Long-term Medication Use: No
+Long-term Alcohol Consumption: No
+Long-term Smoking: No
+
+Round 1: Data Collection
+Date: October 14, 2025
+Operator's Signature: Fu Qiyun
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 7 hours
+2.	Current fatigue level: No
+3.	Regular meal intake: Yes
+4.	Physical exercise today: No
+5.	Alcohol consumption today or last night: No
+6.	Illness today: No
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: No
+10.	Consumption of sugary food within one hour prior: No
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+The subject was in a relatively pleasant state; due to poor English proficiency, her fluency was low, with constant pauses, long thinking time, and problems in expression.
+
+
+Round 2: Data Collection
+Date: October 21, 2025
+Operator's Signature: Li Yiling
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 8 hours
+2.	Current fatigue level: Yes
+3.	Regular meal intake: Yes
+4.	Physical exercise today: No
+5.	Alcohol consumption today or last night: No
+6.	Illness today: No
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: Yes
+10.	Consumption of sugary food within one hour prior: No
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+During the test, she kept her eyes looking downward and blinked frequently. Due to weak English foundation, there were long pauses for thinking, and her expression was quite halting.
+
+
+Round 3: Data Collection
+Date: October 28, 2025
+Operator's Signature: Fu Qiyun
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 7 hours
+2.	Current fatigue level: No
+3.	Regular meal intake: Yes
+4.	Physical exercise today: No
+5.	Alcohol consumption today or last night: No
+6.	Illness today: No
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: No
+10.	Consumption of sugary food within one hour prior: No
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+She exhibited the behavior of rubbing her nose with her hands, had a high blinking frequency, made quite a few halts, and rested her right cheek on her right hand for a long time.
+
+
+Round 4: Data Collection
+Date: November 11, 2025
+Operator's Signature: Li Yiling
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 8 hours
+2.	Current fatigue level: No
+3.	Regular meal intake: Yes
+4.	Physical exercise today: No
+5.	Alcohol consumption today or last night: No
+6.	Illness today: No
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: No
+10.	Consumption of sugary food within one hour prior: No
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+The state of thinking was obvious, and the expression process was quite halting. There were thinking movements such as scratching her head and rolling her eyes. No obvious body stiffness or similar conditions occurred during the expression.
+
+
+Round 5: Data Collection
+Date: November 18, 2025
+Operator's Signature: Fu Qiyun
+
+PRE-EXPERIMENTAL PREREQUISITES
+1.	Sleep duration today: 6 hours
+2.	Current fatigue level: No
+3.	Regular meal intake: Yes
+4.	Physical exercise today: No
+5.	Alcohol consumption today or last night: No
+6.	Illness today: No
+7.	Smoking today: No
+8.	Smoking within one hour prior: No
+9.	Consumption of sugary food today: No
+10.	Consumption of sugary food within one hour prior: No
+11.	Coffee consumption today: No
+12.	Coffee consumption within one hour prior: No
+13.	Discomfort with data collector wearing: No
+
+EXTRA NOTE
+The subject scratched her head, kept her eyes fixed on the desktop all the time, was in a pleasant mood with the corners of her mouth upturned, and spoke at a slow speed.
