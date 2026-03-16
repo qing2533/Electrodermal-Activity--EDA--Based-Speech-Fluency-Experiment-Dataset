@@ -11,7 +11,7 @@ This dataset is for research and learning purposes only and is strictly prohibit
 
 First of all, we sincerely thank the 6 subjects who participated in this experiment: Hu Wentao, Wei Ziyue, Zhou Kaiqi, Zou Yawen, Lü Zhouhao, Zhuo Yiyuan. We appreciate their active cooperation, full support and selfless dedication during the experiment. The sincere participation of the subjects is the foundation for the smooth construction of this dataset.
 
-**At the same time, we would like to thank the project leader of this experiment: Zhang Hanwen; operators: Fu Qiyun, Li Yiling, Zhou Fangkai (in no particular order). All members of this project are from Delaware State University. Contact Email: 18583074836@163.com** We appreciate their rigorous operation, hard work and professional assistance in the experiment preparation, data collection and data sorting processes, which ensured the standardization of the experimental process and the accuracy of the dataset.
+At the same time, we would like to thank the project leader of this experiment: Zhang Hanwen (Delaware State University); operators: Fu Qiyun (Delaware State University), Li Yiling (Delaware State University), Zhou Fangkai (Wayne State University) (in no particular order). Contact Email: 18583074836@163.com. We appreciate their rigorous operation, hard work and professional assistance in the experiment preparation, data collection and data sorting processes, which ensured the standardization of the experimental process and the accuracy of the dataset.
 
 ## Supplementary Notes
 
@@ -29,8 +29,6 @@ The tool used for data processing and analysis of this dataset is: https://githu
 
 (5) Conclusion Phase: After all tasks are completed, remove the sensors, interview the subjects, and have them fill in the immediate emotion self-rating scale to verify the effect of emotion induction, understand their feelings during the experiment, and supplement and record abnormal situations that may affect the results.
 
----
-
 # 基于皮肤电反应（EDA）的口语流利度实验数据集
 
 ## 数据集说明
@@ -45,7 +43,7 @@ The tool used for data processing and analysis of this dataset is: https://githu
 
 首先，衷心感谢参与本次实验的6位受试者：胡文涛、魏紫悦、周鍇奇、邹雅雯、吕周好、禚镒源，感谢其在实验过程中的积极配合、全力支持与无私奉献，受试者的真诚参与是本数据集得以顺利构建的基础。
 
-**同时，感谢本次实验的项目负责人：张瀚文；操作员：傅琪芸、厉依灵、周方凯（排名不分前后）。本项目所有组成员均来自特拉华州立大学（Delaware State University）,联系邮箱：18583074836@163.com**，感谢其在实验筹备、数据采集、数据整理过程中的严谨操作、辛勤付出与专业协助，确保了实验流程的规范性和数据集的准确性。
+同时，感谢本次实验的项目负责人：张瀚文（特拉华州立大学，Delaware State University）；操作员：傅琪芸（特拉华州立大学，Delaware State University）、厉依灵（特拉华州立大学，Delaware State University）、周方凯（韦恩州立大学，Wayne State University）（排名不分前后）。联系邮箱：18583074836@163.com，感谢其在实验筹备、数据采集、数据整理过程中的严谨操作、辛勤付出与专业协助，确保了实验流程的规范性和数据集的准确性。
 
 ## 补充说明
 
@@ -59,6 +57,6 @@ The tool used for data processing and analysis of this dataset is: https://githu
 
 (3) 情绪诱发：通过实验前准备好的材料诱发相应的研究情绪。在情绪诱发过程中，实时记录皮电反应，捕捉瞬时变化。在相应的情绪诱发完成后，实验操作员发放口语表达材料。
 
-(4) 口语表达数据采集：受试者在进行口语表达前给予一段准备时间，供受试者熟悉手上的口语表达材料，在准备时间结束后，受试者进行口语表达，并实时进行录制与皮肤电数据采集。准备与口语表达期间，实验操作员离开实验场地，以确保操作员的存在不会对受试者的表达造成影响。
+(4) 口语表达数据采集：受试者在进行口语表达前给予准备时间，熟悉手中的口语表达材料。准备时间结束后，受试者进行口语表达，同步进行实时录制与皮肤电数据采集。准备与口语表达期间，实验操作员离开实验场地，以确保操作员的存在不会对受试者的表达造成影响。
 
 (5) 结束阶段：所有任务完成后，取下传感器，对受试者进行访谈，同时填写即时情绪自评量表，用于验证情绪诱发效果，了解其实验过程中的感受，补充记录可能影响结果的异常情况。
